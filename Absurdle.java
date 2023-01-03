@@ -1,7 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 11/15/2022
-// Class: CSE 122
-// TA: Colton Harris
 // Program: Absurdle
 // Absurdle allows users to play a game of absurdle: 
 // an adversarial game of wordle where the manager attempts to make the game 
